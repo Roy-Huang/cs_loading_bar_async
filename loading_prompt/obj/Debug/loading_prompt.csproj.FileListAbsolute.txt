@@ -1,0 +1,10 @@
+c:\users\roy\source\repos\loading_prompt\loading_prompt\bin\Debug\loading_prompt.exe.config
+c:\users\roy\source\repos\loading_prompt\loading_prompt\bin\Debug\loading_prompt.exe
+c:\users\roy\source\repos\loading_prompt\loading_prompt\bin\Debug\loading_prompt.pdb
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.csprojAssemblyReference.cache
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.Form1.resources
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.Properties.Resources.resources
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.csproj.GenerateResource.cache
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.csproj.CoreCompileInputs.cache
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.exe
+c:\users\roy\source\repos\loading_prompt\loading_prompt\obj\Debug\loading_prompt.pdb
